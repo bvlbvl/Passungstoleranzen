@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Passungstoleranzen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="diameter">Durchmesser</string>
+    <string name="toleranceclass">Klasse</string>
+    <string name="basetolerance">Grundtoleranz</string>
+    <string name="uppertolerance">Obere Toleranz</string>
+    <string name="lowertolerance">Untere Toleranz</string>
+    <string name="bore">Bohrung</string>
+    <string name="shaft">Welle</string>
+    <string name="maxLash">maximales Spiel</string>
+    <string name="maxInterferenceFit">maximales Übermaß</string>
+    <string name="um">um</string>
+</resources>
